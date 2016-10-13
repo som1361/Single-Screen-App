@@ -13,7 +13,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         
         // Justify description body using webView 
-        String htmlText = " %s ";
         WebView webView = (WebView) findViewById(R.id.webView);
         //load prepared data in webView
         webView.loadData(getString(R.string.hello), "text/html; charset=utf-8", "utf-8");
