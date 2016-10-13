@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">AirbnbInfo</string>
+    <string name="hello">
+<![CDATA[
+<html>
+ <head></head>
+ <body style="text-align:justify;color:black;background-color:transparent;">
+ Founded in August of 2008 and based in
+  San Francisco, California, Airbnb is
+  a trusted community marketplace for
+  people to list, discover, and book
+  unique accommodation around the world.
+ It connects people looking to rent their
+ homes with people who are looking for
+ accommodations. In Airbnb hosts list
+ and rent out their unused spaces, and
+ travelers search for and book accommodations.
+</body>
+</html>
+]]>
+</string>
+</resources>
